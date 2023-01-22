@@ -5,6 +5,7 @@
 ![Screenshot 2023-01-22 at 1 26 37 PM](https://user-images.githubusercontent.com/24976957/213909503-b16935bd-2657-45f6-9717-d7d29d9f48b6.png)
 
 
+# Productivity Tools 
 
 Terminal Emulator : Alacrity - Minimalist OpenGL Terminal Emulator ``https://alacritty.org/``
 
@@ -36,4 +37,4 @@ lazygit : A simple terminal UI for git commands ``https://github.com/jesseduffie
 lazydocker: simple terminal UI for both docker and docker-compose ``https://github.com/jesseduffield/lazydocker``
 
 
-
+# [+] Installation & Usage 
