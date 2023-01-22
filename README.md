@@ -37,4 +37,4 @@ lazygit : A simple terminal UI for git commands ``https://github.com/jesseduffie
 lazydocker: simple terminal UI for both docker and docker-compose ``https://github.com/jesseduffield/lazydocker``
 
 
-# [+] Installation & Usage 
+-- TBD 
