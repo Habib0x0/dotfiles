@@ -1,1 +1,0 @@
-/Users/b0x/repos/dotfiles/mackup/.config/fish/conf.d
