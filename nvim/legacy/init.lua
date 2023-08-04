@@ -1,0 +1,5 @@
+require("joshmedeski.opt")
+require("joshmedeski.packer")
+require("joshmedeski.commands")
+require("joshmedeski.autocmd")
+require("joshmedeski.keymap")
